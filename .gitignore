@@ -38,3 +38,8 @@
 # System files
 .DS_Store
 Thumbs.db
+
+
+# Environment files
+/timetable-frontend/.env
+/vault/*.php
